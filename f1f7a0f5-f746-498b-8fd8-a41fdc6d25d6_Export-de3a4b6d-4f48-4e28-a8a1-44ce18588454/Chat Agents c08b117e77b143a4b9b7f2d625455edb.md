@@ -18,7 +18,7 @@ Greetings, fellow data practitioners!
 
 Creating a chat agent is super easy. After landing on our homepage, click the "Agent" button to create one. 
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled.png)
 
 <aside>
 💡 Not sure about Chat Agents?  please refer our [**Onboarding Document**](https://www.notion.so/Onboarding-Document-7638ee64ac224389a739987a14f3a35d?pvs=21).
@@ -36,7 +36,7 @@ Setting up your agent is a breeze! Just provide the essentials: **Agent Name**, 
 
 </aside>
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%201.png)
 
 <aside>
 💡 Wondering what does “Infer Table” and “Strict Mode” means? You can look at our **[Glossary](https://www.notion.so/Data-Fa-ade-Glossary-e3699b0336774af389fbaae3e164b48d?pvs=21)**.
@@ -59,7 +59,7 @@ Setting up your agent is a breeze! Just provide the essentials: **Agent Name**, 
 
 Once everything is ready, click on "**Preview**" and you can begin chatting with the agent. Kick off the conversation with a crucial yet straightforward question: "**How many customers completed purchases in July 2023?**"😎
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%202.png)
 
 See, it is easy right?
 
@@ -68,14 +68,14 @@ See, it is easy right?
 
 </aside>
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%203.png)
 
 <aside>
 💡 Want to ask a follow-up question? Use the tag [followup] Before the question. For example:[followup] Show me the customer names. Although your agent is going to suggest few follow-up questing after every question, you can give that a try.
 
 </aside>
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%204.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%204.png)
 
 ---
 
@@ -83,13 +83,13 @@ See, it is easy right?
 
 Now you want to know some more on business metrics that you care about  “**How much profit and revenue is generated from these customers?**”. Let ask that through a followup.
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%205.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%205.png)
 
 Hmmm🤔 interesting, the agent is asking for some clarification. Let’s “**Add Business Context**”
 
 So here I clarify the question by adding **Business Keywords** (profit and revenue) and context
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%206.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%206.png)
 
 <aside>
 💡 Looking to know more about Business Context and Business Keywords? Look no further than our **[Glossary](https://www.notion.so/Data-Fa-ade-Glossary-e3699b0336774af389fbaae3e164b48d?pvs=21)**!
@@ -106,11 +106,11 @@ profit = sum(total amount - tax)
 
 </aside>
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%207.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%207.png)
 
 Now, let's ask the same question again
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%208.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%208.png)
 
 Great! The answer was smooth this time.
 
@@ -125,11 +125,11 @@ Great! The answer was smooth this time.
 
 🤔 Wondering "**What is the revenue for different regions in July 2023?**"? Let's ask the agent.
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%209.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%209.png)
 
 Great!! now let visualize it, got to “**Chart**” and see your agent already created a visualization
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2010.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2010.png)
 
 "**Save**" the chart to use it in creating a dashboard. Additionally, you can create your own chart by exploring the "**New Chart**" tab.
 
@@ -141,15 +141,15 @@ Now you might want to know which gateway platform is famous in different region?
 
 Let’s ask that “**Which payment gateway did most customers use for purchases in different regions during July 2023?**”
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2011.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2011.png)
 
 🤔Hmmm, the output doesn't seem to be correct. Why does the Europe region have three payment gateways? It should only have one, right? Let’s clarify it just click on 👎🏻 and a popup will come up.
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2012.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2012.png)
 
 write “**Only show the most used gateway for each region.**” in the box and click on “**Save And Submit**”.
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2013.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2013.png)
 
 See! It worked 🙌🏻. But you might be thinking, "Do I need to clarify every time I ask the same question?" The answer is no! 🚫
 
@@ -162,9 +162,9 @@ Simply click on "**Edit & Train**" and save the code. The code is now saved in y
 
 Still not sure? Try asking "**Which payment gateway did most customers use for purchases in different countries during July 2023?**" after following the above process 😃
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2014.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2014.png)
 
-![Untitled](https://github.com/soumya-df/Documentations/blob/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2015.png)
+![Untitled](https://raw.githubusercontent.com/soumya-df/Documentations/main/f1f7a0f5-f746-498b-8fd8-a41fdc6d25d6_Export-de3a4b6d-4f48-4e28-a8a1-44ce18588454/Chat%20Agents%20c08b117e77b143a4b9b7f2d625455edb/Untitled%2015.png)
 
 <aside>
 💡 If you're curious about the meaning of "Training Data" in the context of a chat agent, check out our **[Glossary](https://www.notion.so/Data-Fa-ade-Glossary-e3699b0336774af389fbaae3e164b48d?pvs=21)**!
